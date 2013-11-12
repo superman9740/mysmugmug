@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3CCE6387182E859A0077E71E /* Album.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CCE6384182E859A0077E71E /* Album.m */; };
+		3CCE6388182E859A0077E71E /* Photo.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CCE6386182E859A0077E71E /* Photo.m */; };
+		3CCE638B182E85BA0077E71E /* Favorite.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CCE638A182E85BA0077E71E /* Favorite.m */; };
 		DED1356F18280F7F00D99AB4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DED1356E18280F7F00D99AB4 /* Foundation.framework */; };
 		DED1357118280F7F00D99AB4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DED1357018280F7F00D99AB4 /* CoreGraphics.framework */; };
 		DED1357318280F7F00D99AB4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DED1357218280F7F00D99AB4 /* UIKit.framework */; };
@@ -41,6 +44,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3CCE6383182E859A0077E71E /* Album.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Album.h; sourceTree = "<group>"; };
+		3CCE6384182E859A0077E71E /* Album.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Album.m; sourceTree = "<group>"; };
+		3CCE6385182E859A0077E71E /* Photo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Photo.h; sourceTree = "<group>"; };
+		3CCE6386182E859A0077E71E /* Photo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Photo.m; sourceTree = "<group>"; };
+		3CCE6389182E85BA0077E71E /* Favorite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Favorite.h; sourceTree = "<group>"; };
+		3CCE638A182E85BA0077E71E /* Favorite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Favorite.m; sourceTree = "<group>"; };
 		DED1356B18280F7F00D99AB4 /* mysmugmug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mysmugmug.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED1356E18280F7F00D99AB4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DED1357018280F7F00D99AB4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -99,6 +108,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3CCE6382182E85700077E71E /* ValueObjects */ = {
+			isa = PBXGroup;
+			children = (
+				3CCE6383182E859A0077E71E /* Album.h */,
+				3CCE6384182E859A0077E71E /* Album.m */,
+				3CCE6385182E859A0077E71E /* Photo.h */,
+				3CCE6386182E859A0077E71E /* Photo.m */,
+				3CCE6389182E85BA0077E71E /* Favorite.h */,
+				3CCE638A182E85BA0077E71E /* Favorite.m */,
+			);
+			name = ValueObjects;
+			sourceTree = "<group>";
+		};
 		DED1356218280F7F00D99AB4 = {
 			isa = PBXGroup;
 			children = (
@@ -134,6 +156,7 @@
 		DED1357418280F7F00D99AB4 /* mysmugmug */ = {
 			isa = PBXGroup;
 			children = (
+				3CCE6382182E85700077E71E /* ValueObjects */,
 				DEE4DB7D182D7A4A001B31FE /* AppController */,
 				DED135B11828233500D99AB4 /* OAuth */,
 				DED135A918280FEB00D99AB4 /* ViewControllers */,
@@ -314,8 +337,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				DED1358B18280F7F00D99AB4 /* SecondViewController.m in Sources */,
+				3CCE638B182E85BA0077E71E /* Favorite.m in Sources */,
 				DED1357F18280F7F00D99AB4 /* AppDelegate.m in Sources */,
 				DEE4DB80182D7A64001B31FE /* msAppController.m in Sources */,
+				3CCE6388182E859A0077E71E /* Photo.m in Sources */,
+				3CCE6387182E859A0077E71E /* Album.m in Sources */,
 				DED1358818280F7F00D99AB4 /* FirstViewController.m in Sources */,
 				DED1357B18280F7F00D99AB4 /* main.m in Sources */,
 				DED135B01828113E00D99AB4 /* LoginAuthorizeViewController.m in Sources */,

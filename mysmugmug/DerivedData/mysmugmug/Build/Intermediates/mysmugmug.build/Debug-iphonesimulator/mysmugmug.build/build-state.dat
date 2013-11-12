@@ -1,0 +1,882 @@
+Tmysmugmug
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.pch mysmugmug/mysmugmug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug normal i386
+cGenerateDSYMFile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug
+cCompileStoryboard /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/en.lproj/InfoPlist.strings mysmugmug/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Images.xcassets
+cProcessInfoPlistFile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Info.plist /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Info.plist
+cTouch /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000522ACC8F00000000000003B5
+t1378536591
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000522ACCD2000000000000019E
+t1378536658
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+c00000000522ACCE00000000000008CC0
+t1378536672
+s36032
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000522ACCEC0000000000583810
+t1378536684
+s5781520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000522ACCED00000000005B82A0
+t1378536685
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000522ACCEE0000000000445830
+t1378536686
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000522ACCEF0000000000355270
+t1378536687
+s3494512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000522ACCF400000000002F4800
+t1378536692
+s3098624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000522ACCF5000000000004B000
+t1378536693
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000522ACCFA000000000088B570
+t1378536698
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000522ACD0B0000000000714B70
+t1378536715
+s7424880
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000522ACD100000000000037620
+t1378536720
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000522ACD120000000000484860
+t1378536722
+s4737120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000522ACD140000000000127E10
+t1378536724
+s1211920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000522ACD200000000001DB1C90
+t1378536736
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/iAd.framework/iAd
+c00000000522ACD2400000000000CB2C0
+t1378536740
+s832192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000522ACDC800000000002B9E80
+t1378536904
+s2858624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000522ACE2E0000000000002338
+t1378537006
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c00000000522ACE30000000000008D300
+t1378537008
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000522ACE32000000000038ACB0
+t1378537010
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000052670CB300000000000141F0
+t1382485171
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000522ACE330000000000013500
+t1378537011
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000522ACE330000000000033BA0
+t1378537011
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000522ACE33000000000001CFB0
+t1378537011
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000522ACE33000000000001B2B0
+t1378537011
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000522ACE3300000000000632B0
+t1378537011
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000522ACE330000000000008880
+t1378537011
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000522ACE340000000000015080
+t1378537012
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000522ACE3400000000000230E0
+t1378537012
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000522ACE34000000000000E380
+t1378537012
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000522ACE340000000000087200
+t1378537012
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000522ACE3400000000000171A0
+t1378537012
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000522ACE340000000000039C10
+t1378537012
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000522ACE34000000000000B0B0
+t1378537012
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000522ACE340000000000167FE0
+t1378537012
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000522ACE3400000000000106A0
+t1378537012
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000522ACE34000000000001CE40
+t1378537012
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000522ACE340000000000071040
+t1378537012
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000522ACE340000000000067A10
+t1378537012
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000522ACE34000000000001BAD0
+t1378537012
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000522ACE340000000000088BA0
+t1378537012
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000520D88540000000000000AC9
+t1376618580
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000522ACBD30000000000005004
+t1378536403
+s20484
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.pch
+t1384002632
+s108092
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.o
+t1384002633
+s69000
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.o
+t1384002633
+s53960
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.o
+t1384002633
+s73820
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.o
+t1384002633
+s45156
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.o
+t1384002633
+s41204
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.o
+t1384002633
+s3644
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.o
+t1384002633
+s13028
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/mysmugmug.LinkFileList
+c00000000527E344700000000000004B1
+t1384002631
+s1201
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/assetcatalog_dependencies.txt
+t1384002635
+s439
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/assetcatalog_generated_info.plist
+t1384002635
+s525
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app
+t1384002635
+s306
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM
+t1384002633
+s102
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Base.lproj/Main_iPad.storyboardc
+t1384002635
+s204
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Base.lproj/Main_iPhone.storyboardc
+t1384002635
+s340
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Info.plist
+t1384002635
+s1397
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/PkgInfo
+t1384002635
+s8
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/en.lproj/InfoPlist.strings
+t1384002633
+s42
+
+N/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug
+t1384002633
+s48576
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.h
+c00000000527E33AB0000000000000110
+t1384002475
+s272
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m
+c00000000527E33AB0000000000000911
+t1384002475
+s2321
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPad.storyboard
+c00000000527E33AB0000000000002EC1
+t1384002475
+s11969
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard
+c00000000527E33AB0000000000004394
+t1384002475
+s17300
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.h
+c00000000527E33AB0000000000000142
+t1384002475
+s322
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m
+c00000000527E33AB0000000000000C63
+t1384002475
+s3171
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Images.xcassets
+c00000000527E33AB00000000000000CC
+t1384002475
+s204
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.h
+c00000000527E33AB00000000000001B8
+t1384002475
+s440
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m
+c00000000527E33AB0000000000001C49
+t1384002475
+s7241
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.h
+c00000000527E33AB000000000000015B
+t1384002475
+s347
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m
+c00000000527E33AB00000000000002CE
+t1384002475
+s718
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.h
+c00000000527E33AB00000000000000FF
+t1384002475
+s255
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m
+c00000000527E33AB0000000000000201
+t1384002475
+s513
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/en.lproj/InfoPlist.strings
+c00000000527E33AB000000000000002D
+t1384002475
+s45
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m
+c00000000527E33AB000000000000014C
+t1384002475
+s332
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.h
+c00000000527E33AB00000000000001B6
+t1384002475
+s438
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m
+c00000000527E33AB0000000000000446
+t1384002475
+s1094
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Info.plist
+c00000000527E33AB00000000000006FA
+t1384002475
+s1786
+
+N/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Prefix.pch
+c00000000527E33AB0000000000000158
+t1384002475
+s344
+
+N/usr/lib/libSystem.B.dylib
+c0000000052670CA4000000000000E6D0
+t1382485156
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052670CB30000000000012A00
+t1382485171
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052670C98000000000002E320
+t1382485144
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052670CA40000000000021860
+t1382485156
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052670CB3000000000001B620
+t1382485171
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052670CB300000000000BD920
+t1382485171
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000052670CB300000000000141F0
+t1382485171
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052670CB3000000000000A120
+t1382485171
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052670CB3000000000001D550
+t1382485171
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052670CB20000000000014EE0
+t1382485170
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052670CB50000000000010380
+t1382485173
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052670CB5000000000000C4C0
+t1382485173
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052670CB300000000000357A0
+t1382485171
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052670CB3000000000000C070
+t1382485171
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052670CA40000000000168C00
+t1382485156
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000052670CB30000000000010630
+t1382485171
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052670CB4000000000001DF10
+t1382485172
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052670CA40000000000075B00
+t1382485156
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052670CA4000000000007CC70
+t1382485156
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052670CA400000000000766C0
+t1382485156
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000052670CB30000000000044DC0
+t1382485171
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052670CA40000000000021FA0
+t1382485156
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052670CB4000000000002D900
+t1382485172
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052670CB4000000000001E570
+t1382485172
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052670CAB000000000000CC70
+t1382485163
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052670CAF000000000000C3F0
+t1382485167
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052670CB400000000000199F0
+t1382485172
+s104944
+
+CBuild AST from /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m
+r0
+
+CBuild AST from /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m
+r0
+
+CBuild AST from /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m
+r0
+
+CBuild AST from /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m
+r0
+
+CBuild AST from /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m
+r0
+
+CBuild AST from /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m
+r0
+
+CBuild AST from /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies765031ce6b2eb841^2db49fce6b2eb841^---0#1#1#--18"Check dependencies36"3F047408-1BBB-4378-AC83-38FA00E249AB-
+
+CCompileAssetCatalog /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Images.xcassets
+s405695433.765825
+e405695435.514280
+r1
+xCompileAssetCatalog
+x/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/LaunchImage-700-568h@2x.png
+o/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Assets.car
+o/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CompileAssetCatalog DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app mysmugmug/Images.xcassets118"CompileAssetCatalog DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app mysmugmug/Images.xcassetsd21dc4c96b2eb841^b5a883cb6b2eb841^-467"/* com.apple.actool.compilation-results *//Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/LaunchImage-700-568h@2x.png/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Assets.car/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@69"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Images.xcassets/0000000000000000^1248"CompileAssetCatalog DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app mysmugmug/Images.xcassets    cd /Users/sdickson/mysmugmug/mysmugmug    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Images.xcassets36"3A00DEA8-0E2D-445D-BF0B-E69A60036407-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405695432.928891
+e405695433.278536
+r1
+xCompileC
+xDerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.o
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.h
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.h
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.h
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m230"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.o mysmugmug/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler22dfedc86b2eb841^984e47c96b2eb841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m0000000000000000^3938"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.o mysmugmug/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/mysmugmug/mysmugmug    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sdickson/mysmugmug/mysmugmug/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-generated-files.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-own-target-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-all-target-headers.hmap -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-project-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources/i386 -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -include /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.dia -c /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.m -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.o36"43DDA8DB-61A7-463F-A3FB-5A9F14612568-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405695432.929433
+e405695433.394302
+r1
+xCompileC
+xDerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.o
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.h
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.h
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.h
+o/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m:66:24: warning: unused variable 'temp1' [-Wunused-variable]
+o             NSString* temp1 = token[@"id"];
+o                       ^
+o/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m:67:24: warning: unused variable 'temp2' [-Wunused-variable]
+o             NSString* temp2 = token[@"Secret"];
+o                       ^
+o/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m:27:15: warning: unused variable 'consumer_secret_key' [-Wunused-variable]
+o    NSString* consumer_secret_key = @"141d0211d72720d9cb58fb63bee7e2d8";
+o              ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m246"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.o mysmugmug/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3315eec86b2eb841^a6f064c96b2eb841^-653"/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m:66:24: warning: unused variable 'temp1' [-Wunused-variable]             NSString* temp1 = token[@"id"];                       ^/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m:67:24: warning: unused variable 'temp2' [-Wunused-variable]             NSString* temp2 = token[@"Secret"];                       ^/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m:27:15: warning: unused variable 'consumer_secret_key' [-Wunused-variable]    NSString* consumer_secret_key = @"141d0211d72720d9cb58fb63bee7e2d8";              ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'temp1'-405695433#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m0000000000000000^65#23#65#23#2661#0#19"Unused Entity Issue--2@23"Unused variable 'temp2'-405695433#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m0000000000000000^66#23#66#23#2706#0#19"Unused Entity Issue--2@37"Unused variable 'consumer_secret_key'-405695433#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@74"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m0000000000000000^26#14#26#14#429#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@74"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m0000000000000000^3986"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.o mysmugmug/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/mysmugmug/mysmugmug    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sdickson/mysmugmug/mysmugmug/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-generated-files.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-own-target-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-all-target-headers.hmap -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-project-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources/i386 -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -include /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.d --serialize-diagnostics /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.dia -c /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/FirstViewController.m -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.o36"CCC2120D-F3BF-4161-96E0-9F2A27E9BB02-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405695432.930123
+e405695433.318987
+r1
+xCompileC
+xDerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.o
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.h
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.h
+o/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m:32:15: warning: unused variable 'consumer_secret_key' [-Wunused-variable]
+o    NSString* consumer_secret_key = @"141d0211d72720d9cb58fb63bee7e2d8";
+o              ^
+o/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m:108:19: warning: unused variable 'consumer_secret_key' [-Wunused-variable]
+o        NSString* consumer_secret_key = @"141d0211d72720d9cb58fb63bee7e2d8";
+o                  ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m264"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.o mysmugmug/LoginAuthorizeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4031eec86b2eb841^dfa851c96b2eb841^-511"/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m:32:15: warning: unused variable 'consumer_secret_key' [-Wunused-variable]    NSString* consumer_secret_key = @"141d0211d72720d9cb58fb63bee7e2d8";              ^/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m:108:19: warning: unused variable 'consumer_secret_key' [-Wunused-variable]        NSString* consumer_secret_key = @"141d0211d72720d9cb58fb63bee7e2d8";                  ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@37"Unused variable 'consumer_secret_key'-405695433#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@83"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m0000000000000000^31#14#31#14#682#0#19"Unused Entity Issue--2@37"Unused variable 'consumer_secret_key'-405695433#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m0000000000000000^107#18#107#18#4045#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@83"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m0000000000000000^4040"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.o mysmugmug/LoginAuthorizeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/mysmugmug/mysmugmug    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sdickson/mysmugmug/mysmugmug/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-generated-files.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-own-target-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-all-target-headers.hmap -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-project-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources/i386 -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -include /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.d --serialize-diagnostics /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.dia -c /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.m -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.o36"DD266F0E-FAE6-4D35-91AC-460DC0DAC006-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405695432.930572
+e405695433.278241
+r1
+xCompileC
+xDerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.o
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.h
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginAuthorizeViewController.h
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m246"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.o mysmugmug/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera35ceec86b2eb841^ef3a47c96b2eb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m0000000000000000^3986"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.o mysmugmug/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/mysmugmug/mysmugmug    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sdickson/mysmugmug/mysmugmug/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-generated-files.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-own-target-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-all-target-headers.hmap -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-project-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources/i386 -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -include /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.d --serialize-diagnostics /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.dia -c /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/LoginViewController.m -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.o36"8A318C6B-9FE0-4FCF-AADC-87BC0FDF08CB-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405695432.928715
+e405695433.354261
+r1
+xCompileC
+xDerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.o
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m248"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.o mysmugmug/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler77dbedc86b2eb841^4ab25ac96b2eb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m0000000000000000^3992"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.o mysmugmug/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/mysmugmug/mysmugmug    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sdickson/mysmugmug/mysmugmug/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-generated-files.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-own-target-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-all-target-headers.hmap -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-project-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources/i386 -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -include /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.d --serialize-diagnostics /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.dia -c /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/SecondViewController.m -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.o36"544F78A5-CAEE-4D96-99F4-73C4E0E72889-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405695432.929675
+e405695433.278043
+r1
+xCompileC
+xDerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.o
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m216"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.o mysmugmug/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera41aeec86b2eb841^f52d47c96b2eb841^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m0000000000000000^3896"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.o mysmugmug/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/mysmugmug/mysmugmug    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sdickson/mysmugmug/mysmugmug/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-generated-files.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-own-target-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-all-target-headers.hmap -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-project-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources/i386 -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -include /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.dia -c /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/main.m -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.o36"0C48A01D-A99C-4B03-AD51-765D6DF67900-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.o /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405695432.929097
+e405695433.278668
+r1
+xCompileC
+xDerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.o
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m238"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.o mysmugmug/msAppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf6ecedc86b2eb841^da5647c96b2eb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m0000000000000000^3962"CompileC DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.o mysmugmug/msAppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/mysmugmug/mysmugmug    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sdickson/mysmugmug/mysmugmug/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-generated-files.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-own-target-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-all-target-headers.hmap -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-project-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources/i386 -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -include /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch -MMD -MT dependencies -MF /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.d --serialize-diagnostics /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.dia -c /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/msAppController.m -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.o36"59DF6521-657D-48CA-9073-ADB7586D1732-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileStoryboard /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPad.storyboard
+s405695433.765237
+e405695435.741491
+r1
+xCompileStoryboard
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard mysmugmug/Base.lproj/Main_iPad.storyboard59"CompileStoryboard mysmugmug/Base.lproj/Main_iPad.storyboardcbf4c3c96b2eb841^a6d4bdcb6b2eb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPad.storyboard0000000000000000^873"CompileStoryboard mysmugmug/Base.lproj/Main_iPad.storyboard    cd /Users/sdickson/mysmugmug/mysmugmug    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Base.lproj/Main_iPad.storyboardc /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPad.storyboard36"9A336368-736B-4B5E-8E80-1221FC7C1FA6-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCompileStoryboard /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard
+s405695433.765371
+e405695435.804299
+r1
+xCompileStoryboard
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard:tZ3-Hv-Q7E: warning: Frame for "Text View" will be different at run time. [16]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard mysmugmug/Base.lproj/Main_iPhone.storyboard61"CompileStoryboard mysmugmug/Base.lproj/Main_iPhone.storyboarde3fac3c96b2eb841^c4e8cdcb6b2eb841^-195"/* com.apple.ibtool.document.warnings *//Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard:tZ3-Hv-Q7E: warning: Frame for "Text View" will be different at run time.1(21%IDEActivityLogMessage2@52"Frame for "Text View" will be different at run time.-405695435#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@86"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#14"Misplaced View--0#0#1#-19%DVTDocumentLocation4@86"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard0000000000000000^879"CompileStoryboard mysmugmug/Base.lproj/Main_iPhone.storyboard    cd /Users/sdickson/mysmugmug/mysmugmug    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Base.lproj/Main_iPhone.storyboardc /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/Base.lproj/Main_iPhone.storyboard36"9ED9EF82-DB59-4CAC-986E-128D5E4DF8C5-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CCopyStringsFile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/en.lproj/InfoPlist.strings mysmugmug/en.lproj/InfoPlist.strings
+s405695433.765495
+e405695433.767231
+r1
+xCopyStringsFile
+x/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/en.lproj/InfoPlist.strings
+xmysmugmug/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy mysmugmug/en.lproj/InfoPlist.strings152"CopyStringsFile DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/en.lproj/InfoPlist.strings mysmugmug/en.lproj/InfoPlist.stringsf302c4c96b2eb841^a569c4c96b2eb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/en.lproj/InfoPlist.strings0000000000000000^639"CopyStringsFile DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/en.lproj/InfoPlist.strings mysmugmug/en.lproj/InfoPlist.strings    cd /Users/sdickson/mysmugmug/mysmugmug    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/en.lproj -- mysmugmug/en.lproj/InfoPlist.strings36"DAC928D2-C353-4D94-A991-40A686667B15-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CGenerateDSYMFile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug
+s405695433.738331
+e405695433.764909
+r1
+xGenerateDSYMFile
+x/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM
+x/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generate /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM177"GenerateDSYMFile DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug020ebdc96b2eb841^d8d2c3c96b2eb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM0034986eddffdf42^752"GenerateDSYMFile DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug    cd /Users/sdickson/mysmugmug/mysmugmug    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app.dSYM36"BA8918C6-3911-4B8F-8502-1A64FA4EE2EF-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CLd /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug normal i386
+s405695433.395063
+e405695433.737617
+r1
+xLd
+x/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug
+xnormal
+xi386
+d/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/mysmugmug.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/SecondViewController.o
+d/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/AppDelegate.o
+d/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/msAppController.o
+d/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/FirstViewController.o
+d/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/main.o
+d/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginAuthorizeViewController.o
+d/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/LoginViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/iAd.framework/iAd
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug97"Ld DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug normal i386983165c96b2eb841^1bd6bcc96b2eb841^---0#0#1#--1559"Ld DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug normal i386    cd /Users/sdickson/mysmugmug/mysmugmug    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator -filelist /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/mysmugmug.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework AdSupport -framework iAd -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/Objects-normal/i386/mysmugmug_dependency_info.dat -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/mysmugmug36"53BEFFE7-62F4-4FE7-B4B0-DBD163DD8AAD-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CProcessInfoPlistFile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Info.plist /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Info.plist
+s405695435.804748
+e405695435.807081
+r1
+xProcessInfoPlistFile
+x/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Info.plist
+x/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Process /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Info.plist135"ProcessInfoPlistFile DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Info.plist mysmugmug/mysmugmug-Info.plist910fcecb6b2eb841^529dcecb6b2eb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Info.plist0000000000000000^973"ProcessInfoPlistFile DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Info.plist mysmugmug/mysmugmug-Info.plist    cd /Users/sdickson/mysmugmug/mysmugmug    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Info.plist -genpkginfo /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/assetcatalog_generated_info.plist -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app/Info.plist36"18E7A167-ED3E-4FFD-BDB0-C0BA3E0EB43B-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CProcessPCH /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.pch mysmugmug/mysmugmug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405695431.705321
+e405695432.928150
+r1
+xProcessPCH
+x/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.pch
+xmysmugmug/mysmugmug-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile mysmugmug/mysmugmug-Prefix.pch241"ProcessPCH DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.pch mysmugmug/mysmugmug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbea1b4c76b2eb841^a29bedc86b2eb841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Prefix.pch0000000000000000^3792"ProcessPCH DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.pch mysmugmug/mysmugmug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sdickson/mysmugmug/mysmugmug    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/sdickson/mysmugmug/mysmugmug/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-generated-files.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-own-target-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-all-target-headers.hmap -iquote /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/mysmugmug-project-headers.hmap -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources/i386 -I/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/mysmugmug.build/Debug-iphonesimulator/mysmugmug.build/DerivedSources -F/Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.dia -MMD -MT dependencies -MF /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.d -c /Users/sdickson/mysmugmug/mysmugmug/mysmugmug/mysmugmug-Prefix.pch -o /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Intermediates/PrecompiledHeaders/mysmugmug-Prefix-bttoxehkksqhplfkiqcgwrwcahcr/mysmugmug-Prefix.pch.pch36"0A7BAB66-8603-4CEA-A3CC-7C7CADD10327-
+bAF30AAA9-AA92-4403-B8B0-1823ACF9D475
+
+CProcessPCH /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Index/PrecompiledHeaders/mysmugmug-Prefix-cxqmmutyxyxyjnflxcdwfqvrajql_ast/mysmugmug-Prefix.pch.pch mysmugmug/mysmugmug-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/sdickson/mysmugmug/mysmugmug/DerivedData/mysmugmug/Build/Products/Debug-iphonesimulator/mysmugmug.app
+r0
+

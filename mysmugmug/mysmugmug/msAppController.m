@@ -27,6 +27,8 @@ static msAppController *sharedInstance = nil;
     
     if (self) {
         
+        _favorites = [[NSMutableArray alloc] initWithCapacity:10];
+        
         
     }
     

@@ -13,6 +13,15 @@
 @import iAd;
 
 
-@interface FirstViewController : UIViewController
+@interface FirstViewController : UIViewController<UITableViewDataSource, UITableViewDelegate>
+{
+    
+    
+    
+}
+
+
+@property (nonatomic, strong) IBOutlet UITableView* tableView;
+
 
 @end

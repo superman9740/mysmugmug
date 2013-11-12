@@ -29,7 +29,6 @@
     [super viewDidLoad];
 	NSString* consumer_key = @"amUgkwNe4QUZMuAUxkiDz2xB4gUWBk8z";
     
-    NSString* consumer_secret_key = @"141d0211d72720d9cb58fb63bee7e2d8";
     NSString* signature_method = @"PLAINTEXT";
     NSString* method = @"smugmug.auth.getRequestToken";
     NSString* version = @"1.0";
@@ -105,7 +104,6 @@
     else if([html rangeOfString:@"was added"].location != NSNotFound)
     {
         NSString* consumer_key = @"amUgkwNe4QUZMuAUxkiDz2xB4gUWBk8z";
-        NSString* consumer_secret_key = @"141d0211d72720d9cb58fb63bee7e2d8";
         NSString* signature_method = @"PLAINTEXT";
         NSString* method = @"smugmug.auth.getAccessToken";
         NSString* version = @"1.0";

@@ -17,6 +17,9 @@
 }
 @property (nonatomic, strong) NSString* authorizedAccessTokenID;
 @property (nonatomic, strong) NSString* authorizedAccessSecret;
+@property (nonatomic, strong) NSMutableArray* favorites;
+
+
 
 + (id)sharedInstance;
 
