@@ -121,6 +121,13 @@
 			name = ValueObjects;
 			sourceTree = "<group>";
 		};
+		3CCE638C1832F52C0077E71E /* RSS */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = RSS;
+			sourceTree = "<group>";
+		};
 		DED1356218280F7F00D99AB4 = {
 			isa = PBXGroup;
 			children = (
@@ -156,6 +163,7 @@
 		DED1357418280F7F00D99AB4 /* mysmugmug */ = {
 			isa = PBXGroup;
 			children = (
+				3CCE638C1832F52C0077E71E /* RSS */,
 				3CCE6382182E85700077E71E /* ValueObjects */,
 				DEE4DB7D182D7A4A001B31FE /* AppController */,
 				DED135B11828233500D99AB4 /* OAuth */,

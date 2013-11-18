@@ -96,24 +96,18 @@
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     // Return the number of rows in the section.
-    return [[[ttAppController sharedInstance] trails] count];
+    return 0;
     
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
+   
     static NSString *CellIdentifier = @"Cell";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
     
-    ttTrail* trail = [[[ttAppController sharedInstance] trails] objectAtIndex:indexPath.row];
-    if(trail.images.count > 0)
-    {
-        [cell.imageView setImage:[trail.images objectAtIndex:0]];
-        
-    }
     
-    cell.textLabel.text = trail.name;
-    cell.detailTextLabel.text = trail.desc;
+    cell.textLabel.text = @"test";
     
     
     return cell;
@@ -163,10 +157,6 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     
-    ttTrail* trail = [[[ttAppController sharedInstance] trails] objectAtIndex:indexPath.row];
-    
-    [[ttAppController sharedInstance] setCurrentTrail:trail];
-    [self performSegueWithIdentifier:@"showNewTrip" sender:self];
     
     
 }
