@@ -35,7 +35,7 @@
     
     NSURLRequest* request = [NSURLRequest requestWithURL:[NSURL URLWithString:urlString]];
     NSOperationQueue* queue = [[NSOperationQueue alloc] init];
-  
+    
 
     [NSURLConnection sendAsynchronousRequest:request queue:queue completionHandler:^(NSURLResponse *response, NSData *data, NSError *error)
      {
@@ -114,6 +114,17 @@
     PopularCollectionViewCell* cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"cell" forIndexPath:indexPath];
     FPItem* feedItem = [_feedItems objectAtIndex:indexPath.row];
     cell.imageLink = feedItem.guid;
+    UIColor* color = [UIColor blueColor];
+    
+    CGRect rect = CGRectMake(0, 0, 1, 1);
+    // Create a 1 by 1 pixel context
+    UIGraphicsBeginImageContextWithOptions(rect.size, NO, 0);
+    [color setFill];
+    UIRectFill(rect);   // Fill it with your color
+    UIImage *image = UIGraphicsGetImageFromCurrentImageContext();
+    UIGraphicsEndImageContext();
+    cell.imageView.image = image;
+    
     [cell updateImageInBackground];
     
         

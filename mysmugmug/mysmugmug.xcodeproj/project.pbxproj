@@ -43,6 +43,7 @@
 		DED135A018280F7F00D99AB4 /* mysmugmugTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DED1359F18280F7F00D99AB4 /* mysmugmugTests.m */; };
 		DED135AD1828100B00D99AB4 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DED135AC1828100B00D99AB4 /* LoginViewController.m */; };
 		DED135B01828113E00D99AB4 /* LoginAuthorizeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DED135AF1828113E00D99AB4 /* LoginAuthorizeViewController.m */; };
+		DED32D2B184E4B4D0073DF49 /* PopularDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DED32D2A184E4B4D0073DF49 /* PopularDetailViewController.m */; };
 		DEE4DB80182D7A64001B31FE /* msAppController.m in Sources */ = {isa = PBXBuildFile; fileRef = DEE4DB7F182D7A64001B31FE /* msAppController.m */; };
 		DEE4DB82182D97DF001B31FE /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEE4DB81182D97DF001B31FE /* iAd.framework */; };
 		DEE4DB84182D97E6001B31FE /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEE4DB83182D97E6001B31FE /* AdSupport.framework */; };
@@ -125,6 +126,8 @@
 		DED135AC1828100B00D99AB4 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		DED135AE1828113E00D99AB4 /* LoginAuthorizeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginAuthorizeViewController.h; sourceTree = "<group>"; };
 		DED135AF1828113E00D99AB4 /* LoginAuthorizeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginAuthorizeViewController.m; sourceTree = "<group>"; };
+		DED32D29184E4B4D0073DF49 /* PopularDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopularDetailViewController.h; sourceTree = "<group>"; };
+		DED32D2A184E4B4D0073DF49 /* PopularDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopularDetailViewController.m; sourceTree = "<group>"; };
 		DEE4DB7E182D7A64001B31FE /* msAppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = msAppController.h; sourceTree = "<group>"; };
 		DEE4DB7F182D7A64001B31FE /* msAppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = msAppController.m; sourceTree = "<group>"; };
 		DEE4DB81182D97DF001B31FE /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
@@ -228,6 +231,8 @@
 				DEC8A245183E8BF700665D44 /* PopularViewController.m */,
 				DEC8A248183E9AB200665D44 /* PopularCollectionViewCell.h */,
 				DEC8A249183E9AB200665D44 /* PopularCollectionViewCell.m */,
+				DED32D29184E4B4D0073DF49 /* PopularDetailViewController.h */,
+				DED32D2A184E4B4D0073DF49 /* PopularDetailViewController.m */,
 			);
 			name = Popular;
 			sourceTree = "<group>";
@@ -464,6 +469,7 @@
 				3CCE6387182E859A0077E71E /* Album.m in Sources */,
 				DEC8A220183E8B3A00665D44 /* FPExtensionElementNode.m in Sources */,
 				DEC8A246183E8BF700665D44 /* PopularViewController.m in Sources */,
+				DED32D2B184E4B4D0073DF49 /* PopularDetailViewController.m in Sources */,
 				DED1358818280F7F00D99AB4 /* FirstViewController.m in Sources */,
 				DEC8A24A183E9AB200665D44 /* PopularCollectionViewCell.m in Sources */,
 				DEC8A23F183E8B5200665D44 /* FPFeed.m in Sources */,
